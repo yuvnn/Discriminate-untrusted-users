@@ -1,0 +1,7 @@
+dataset/
+output/
+*.txt
+*.npy
+*.png
+*.doc2vec
+*.csv
