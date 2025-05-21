@@ -1,6 +1,7 @@
 ## 전체 작업 플로우
 
-![image](https://github.com/user-attachments/assets/4d82eaa7-5aaa-4900-b2a2-20ef97c1e333)
+![그림1](https://github.com/user-attachments/assets/4d7f74dc-bccb-4f53-a4ee-e70a34f1bf39)
+
 
 **URE (정적 선호도) - 기본적인 선호를 반영**
 
