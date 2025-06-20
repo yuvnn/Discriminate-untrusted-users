@@ -5,3 +5,4 @@ output/
 *.png
 *.doc2vec
 *.csv
+utils.ipynb
